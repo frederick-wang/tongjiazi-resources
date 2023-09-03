@@ -8,7 +8,34 @@
 如果您在研究中使用了此项目，请引用以下论文:
 
 ```
-王兆基, 张诗睿, 张学涛, 胡韧奋*. 古汉语通假字资源库的构建及应用研究. 第二十二届中国计算语言学大会 (CCL 2023)
+Zhaoji Wang, Shirui Zhang, Xuetao Zhang, and Renfen Hu. 2023. 古汉语通假字资源库的构建及应用研究(The Construction and Application of an Ancient Chinese Language Resource on Tongjiazi). In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pages 535–546, Harbin, China. Chinese Information Processing Society of China.
+```
+
+Markdown:
+
+```markdown
+[古汉语通假字资源库的构建及应用研究(The Construction and Application of an Ancient Chinese Language Resource on Tongjiazi)](https://aclanthology.org/2023.ccl-1.47) (Wang et al., CCL 2023)
+```
+
+BibTeX:
+
+```bibtex
+@inproceedings{wang-etal-2023-gu,
+    title = "古汉语通假字资源库的构建及应用研究(The Construction and Application of an {A}ncient {C}hinese Language Resource on Tongjiazi)",
+    author = "Wang, Zhaoji  and
+      Zhang, Shirui  and
+      Zhang, Xuetao  and
+      Hu, Renfen",
+    booktitle = "Proceedings of the 22nd Chinese National Conference on Computational Linguistics",
+    month = aug,
+    year = "2023",
+    address = "Harbin, China",
+    publisher = "Chinese Information Processing Society of China",
+    url = "https://aclanthology.org/2023.ccl-1.47",
+    pages = "535--546",
+    abstract = "{``}古籍文本中的文字通假现象较为常见,这不仅为人理解文意造成了困难,也是古汉语信息处理面临的一项重要挑战。为了服务于通假字的人工判别和机器处理,本文构建并开源了一个多维度的通假字资源库,包括语料库、知识库和评测数据集三个子库。其中,语料库收录11000余条包含通假现象详细标注的语料;知识库以汉字为节点,通假和形声关系为边,从字音、字形、字义多个角度对通假字与正字的属性进行加工,共包含4185个字节点和8350对关联信息;评测数据集面向古汉语信息处理需求,支持通假字检测和正字识别两个子任务的评测,收录评测数据19678条。在此基础上,本文搭建了通假字自动识别的系列基线模型,并结合试验结果分析了影响通假字自动识别的因素与改进方法。进一步地,本文探讨了该资源库在古籍整理、人文研究和文言文教学中的应用。{''}",
+    language = "Chinese",
+}
 ```
 
 ## 🌐 在线浏览

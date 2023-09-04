@@ -7,9 +7,7 @@
 
 如果您在研究中使用了此项目，请引用以下论文:
 
-```
-Zhaoji Wang, Shirui Zhang, Xuetao Zhang, and Renfen Hu. 2023. 古汉语通假字资源库的构建及应用研究(The Construction and Application of an Ancient Chinese Language Resource on Tongjiazi). In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pages 535–546, Harbin, China. Chinese Information Processing Society of China.
-```
+Zhaoji Wang, Shirui Zhang, Xuetao Zhang, and Renfen Hu. 2023. [古汉语通假字资源库的构建及应用研究(The Construction and Application of an Ancient Chinese Language Resource on Tongjiazi)](https://aclanthology.org/2023.ccl-1.47/). *In Proceedings of the 22nd Chinese National Conference on Computational Linguistics*, pages 535–546, Harbin, China. Chinese Information Processing Society of China.
 
 Markdown:
 
